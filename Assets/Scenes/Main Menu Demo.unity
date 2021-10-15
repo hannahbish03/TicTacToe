@@ -482,7 +482,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6352106536153613652, guid: 6f40747fa9c2b6b439dfbb5d6b8ed66a, type: 3}
       propertyPath: m_Text
-      value: Ultimate Tic Tac Toe
+      value: "\u2606 \u263E  Ultimate Tic Tac Toe \u263D \U0001FA90\u2606"
       objectReference: {fileID: 0}
     - target: {fileID: 7296469997365157872, guid: 6f40747fa9c2b6b439dfbb5d6b8ed66a, type: 3}
       propertyPath: m_RootOrder
